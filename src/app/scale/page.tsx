@@ -1,5 +1,3 @@
 export default function Scale() {
-  return (
-    <div>Scale</div>
-  );
+  return <div>Scale</div>;
 }
